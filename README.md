@@ -1,33 +1,34 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Passive Aggressive Remainder] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [TechSensei]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Abu Ihsan] - [College Of Engineering Perumon]
+- Member 2: [Aliya] - [College Of Engineering Perumon]
+- Member 3: [Shifah Farhath] - [College Of Engineering Perumon]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The *Passive-Aggressive Reminder* website delivers sarcastic, reverse-psychology “encouragements” to keep you on track—by reminding you just how unlikely you are to finish. Add tasks, set reminders, and enjoy personalized passive-aggressive nudges to “motivate” you along the way!]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[*The Problem (that doesn’t exist):*  
+In a world full of motivational apps and overly positive reminders, there's a glaring lack of tools for those who thrive on sarcasm and reverse psychology. Who needs encouragement when a dash of passive-aggressive realism can inspire you in a "no-pressure" way? This app “solves” the problem of people feeling *too motivated*—a reality check for chronic procrastinators who need a little less sunshine and a little more snark.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Introducing **Your Biggest Fan (Not Really)**—the passive-aggressive reminder bot you didn’t know you didn’t need. This app cheerfully nudges you toward productivity by reminding you, with all the sarcasm it can muster, that you probably won’t finish anyway. Forget inspirational quotes; it’s all about a healthy dose of skepticism and sassy commentary, just enough to make you think, “Wow, maybe I really should get this done... or not.”]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [NextJS]
+- [Tailwind css]
+- [React]
+- [Git]
 
 For Hardware:
 - [List main components]
@@ -37,10 +38,10 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[npm run dev]
 
 # Run
-[commands]
+[npm run dev]
 
 ### Project Documentation
 For Software:
