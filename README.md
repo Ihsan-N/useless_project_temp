@@ -80,9 +80,7 @@ For Hardware:
 *Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://useless-project-temp.vercel.app/]
 
 # Additional Demos
 [Add any extra demo materials/links]
