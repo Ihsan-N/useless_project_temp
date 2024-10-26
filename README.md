@@ -8,8 +8,8 @@
 
 
 ### Team Members
-- Team Lead: [Abu Ihsan] - [College Of Engineering Perumon]
-- Member 2: [Aliya] - [College Of Engineering Perumon]
+- Team Lead: [Aliya] - [College Of Engineering Perumon]
+- Member 2: [Abu Ihsan] - [College Of Engineering Perumon]
 - Member 3: [Shifah Farhath] - [College Of Engineering Perumon]
 
 ### Project Description
