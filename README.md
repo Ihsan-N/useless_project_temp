@@ -48,13 +48,13 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](https://r2.fivemanage.com/kO90Xx217aVUsD3sncVNJ/images/home.webp)
-*Add caption explaining what this shows*
+*Shows the home page*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://r2.fivemanage.com/kO90Xx217aVUsD3sncVNJ/images/remainder.webp)
+*Shows the added task list*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](https://r2.fivemanage.com/kO90Xx217aVUsD3sncVNJ/images/notification.webp)
+*Shows the remainder*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -88,9 +88,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Abu Ihsan]: [Developed the core functionality of the Passive-Aggressive Reminder bot, including task management, notification system, and implemented the humorous reverse psychology responses.]
+- [Aliya]: [Designed the user interface]
+- [Shifah Farhath]: [Integration of audio notifications]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
