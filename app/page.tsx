@@ -12,10 +12,10 @@ export default function Home() {
       <main className="flex items-center justify-center min-h-screen bg-gradient-to-r from-[#152331] to-[#000000] relative overflow-hidden">
         {/* Background sarcastic text */}
         <div className="absolute inset-0 flex flex-col items-center justify-center text-gray-600 opacity-10 text-[10vw] font-bold tracking-widest">
-          <p>Hurry up.</p>
-          <p>You’re late.</p>
-          <p>Don’t be lazy.</p>
-          <p>Get it done.</p>
+          <p>Dont Hurry up.</p>
+          <p>You’re early.</p>
+          <p>Be lazy.</p>
+          <p>Dont do it</p>
         </div>
 
         {/* Main content */}
