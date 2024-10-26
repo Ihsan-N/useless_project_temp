@@ -16,7 +16,6 @@
 [The *Passive-Aggressive Reminder* website delivers sarcastic, reverse-psychology “encouragements” to keep you on track—by reminding you just how unlikely you are to finish. Add tasks, set reminders, and enjoy personalized passive-aggressive nudges to “motivate” you along the way!]
 
 ### The Problem (that doesn't exist)
-[*The Problem (that doesn’t exist):*  
 In a world full of motivational apps and overly positive reminders, there's a glaring lack of tools for those who thrive on sarcasm and reverse psychology. Who needs encouragement when a dash of passive-aggressive realism can inspire you in a "no-pressure" way? This app “solves” the problem of people feeling *too motivated*—a reality check for chronic procrastinators who need a little less sunshine and a little more snark.]
 
 ### The Solution (that nobody asked for)
