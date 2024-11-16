@@ -30,9 +30,7 @@ For Software:
 - [Git]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-
 
 ### Implementation
 For Software:
